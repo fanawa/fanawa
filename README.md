@@ -1,9 +1,10 @@
-### Hi there, 
+# Hi there, 
 I'm fanawa
 
 
-### Slill
-##　languages
+# Skill
+
+## languages
 - Dart
   - Flutter
 - TypeScript
