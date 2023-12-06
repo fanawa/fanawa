@@ -15,6 +15,7 @@ I'm fanawa
   - Android
 ## Databases
 - MySQL
+- PostgerSQL
 ## Clouds
 - AWS
 - Firebase
