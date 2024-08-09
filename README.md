@@ -1,7 +1,3 @@
-# Hi there, 
-I'm fanawa
-
-
 # Skill
 
 ## languages
@@ -10,14 +6,14 @@ I'm fanawa
 - TypeScript
   - Nest.js
 - Node.js
-  - express
+  - express, swagger, prisma
 - Java
   - Android
 ## Databases
 - MySQL
 - PostgerSQL
 ## Clouds
-- AWS
+- AWS (Lambda etc)
 - Firebase
 ## Others
 - Docker
